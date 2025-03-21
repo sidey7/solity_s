@@ -101,7 +101,7 @@ h2.brilho {
 .comeco{  
   display: flex;  
   flex-direction: column;  
-  gap: 15px;  
+  gap: 18px;  
 }  
 
 .comeco h2 {  
