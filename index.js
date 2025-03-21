@@ -20,7 +20,7 @@ interações. Seguindo o método corretamente, é possível
 faturar R$3.000 ou mais por mês. Comece hoje e
 transforme sua renda! `)
 
-window.location = "https://wa.me/5598996099308?text=ola+`SD7`+queria+saber+como+ganhar+uma+grana+com+hot!"
+window.location = "https://wa.me/5598996099309?text=ola+`SD7`+queria+saber+como+ganhar+uma+grana+com+hot!"
 })
 
 const bitao2 =
